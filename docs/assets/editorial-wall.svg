@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<rect width="900" height="650" fill="#0f2119"/>
+<g opacity=".14" stroke="#f4efe5" stroke-width="1">
+  <path d="M0 100H900M0 200H900M0 300H900M0 400H900M0 500H900M0 600H900"/>
+  <path d="M100 0V650M200 0V650M300 0V650M400 0V650M500 0V650M600 0V650M700 0V650M800 0V650"/>
+</g>
+<g transform="translate(135 92)">
+  <rect x="0" y="0" width="250" height="430" fill="#f0c96f"/>
+  <rect x="22" y="22" width="206" height="386" fill="none" stroke="#10251b" stroke-width="3"/>
+  <text x="26" y="82" fill="#10251b" font-family="Arial" font-size="18" font-weight="700">YAYASAN HAN AN HUA</text>
+  <text x="26" y="176" fill="#10251b" font-family="Georgia" font-size="54" font-weight="700">IDE</text>
+  <text x="26" y="234" fill="#10251b" font-family="Georgia" font-size="54" font-weight="700">JADI</text>
+  <text x="26" y="292" fill="#10251b" font-family="Georgia" font-size="54" font-weight="700">BUKU</text>
+  <circle cx="190" cy="345" r="28" fill="#e7614d"/>
+</g>
+<g transform="translate(390 145)">
+  <rect x="0" y="0" width="205" height="330" fill="#f7f1e8"/>
+  <rect x="20" y="26" width="92" height="10" fill="#e7614d"/>
+  <rect x="20" y="58" width="148" height="18" fill="#12251c"/>
+  <rect x="20" y="94" width="120" height="8" fill="#958e83"/>
+  <rect x="20" y="116" width="145" height="8" fill="#cfc6ba"/>
+  <rect x="20" y="138" width="155" height="8" fill="#cfc6ba"/>
+  <rect x="20" y="175" width="74" height="98" fill="#1b3a2d"/>
+  <circle cx="57" cy="221" r="23" fill="#f0c96f"/>
+  <rect x="110" y="182" width="60" height="8" fill="#12251c"/>
+  <rect x="110" y="204" width="48" height="7" fill="#9f978c"/>
+  <rect x="110" y="226" width="55" height="7" fill="#9f978c"/>
+  <rect x="110" y="248" width="41" height="7" fill="#e7614d"/>
+</g>
+<g transform="translate(625 80)">
+  <rect x="0" y="0" width="135" height="400" fill="#e7614d"/>
+  <text x="68" y="44" transform="rotate(90 68 44)" fill="#fff" font-family="Arial" font-size="18" font-weight="700">PENERBIT</text>
+  <text x="68" y="210" transform="rotate(90 68 210)" fill="#fff" font-family="Georgia" font-size="42" font-weight="700">HAN AN HUA</text>
+</g>
+<g transform="translate(500 475)">
+  <rect width="238" height="80" fill="#d9e7dc"/>
+  <text x="18" y="34" fill="#10251b" font-family="Arial" font-size="13" font-weight="700">NASKAH • EDITORIAL • DESAIN</text>
+  <text x="18" y="58" fill="#10251b" font-family="Arial" font-size="12">sebuah rumah untuk gagasan</text>
+</g>
+</svg>
